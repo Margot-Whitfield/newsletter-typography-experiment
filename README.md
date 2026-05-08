@@ -1,2 +1,11 @@
-# newsletter-typography-experiment
-Experimental design project analyzing the effects of typography, line spacing, and viewport size on newsletter readability using randomized controlled trials, blocking factors, and hypothesis testing.
+# Newsletter Readability Experiment
+A University of Toronto INF2178 Experimental Design for Data Science project examining the effects of typography, line spacing, and viewport size on newsletter readability.
+
+## This repository demonstrates:
+- Randomized controlled trials
+- Blocking and stratification
+- Data subsetting
+- Hypothesis testing
+- Experimental analysis workflows in Python
+
+## Created by Janna Cameron, YiFan Dai, Cici Liu, and Margot Whitfield.
