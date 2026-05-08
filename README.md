@@ -1,5 +1,5 @@
 # Newsletter Readability Experiment
-A University of Toronto INF2178 Experimental Design for Data Science project examining the effects of typography, line spacing, and viewport size on newsletter readability.
+A University of Toronto INF2178 Experimental Design for Data Science (Instructor Victoria Chui) project examining the effects of typography, line spacing, and viewport size on newsletter readability.
 
 ## This repository demonstrates:
 - Randomized controlled trials
